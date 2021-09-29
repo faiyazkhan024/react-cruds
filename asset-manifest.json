@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cruds-api/static/css/main.349ef09a.chunk.css",
-    "main.js": "/cruds-api/static/js/main.06ac3242.chunk.js",
-    "main.js.map": "/cruds-api/static/js/main.06ac3242.chunk.js.map",
-    "runtime-main.js": "/cruds-api/static/js/runtime-main.0b19978f.js",
-    "runtime-main.js.map": "/cruds-api/static/js/runtime-main.0b19978f.js.map",
-    "static/js/2.be8bbd0d.chunk.js": "/cruds-api/static/js/2.be8bbd0d.chunk.js",
-    "static/js/2.be8bbd0d.chunk.js.map": "/cruds-api/static/js/2.be8bbd0d.chunk.js.map",
-    "index.html": "/cruds-api/index.html",
-    "static/css/main.349ef09a.chunk.css.map": "/cruds-api/static/css/main.349ef09a.chunk.css.map",
-    "static/js/2.be8bbd0d.chunk.js.LICENSE.txt": "/cruds-api/static/js/2.be8bbd0d.chunk.js.LICENSE.txt"
+    "main.css": "/react-cruds/static/css/main.349ef09a.chunk.css",
+    "main.js": "/react-cruds/static/js/main.06ac3242.chunk.js",
+    "main.js.map": "/react-cruds/static/js/main.06ac3242.chunk.js.map",
+    "runtime-main.js": "/react-cruds/static/js/runtime-main.04ccc800.js",
+    "runtime-main.js.map": "/react-cruds/static/js/runtime-main.04ccc800.js.map",
+    "static/js/2.be8bbd0d.chunk.js": "/react-cruds/static/js/2.be8bbd0d.chunk.js",
+    "static/js/2.be8bbd0d.chunk.js.map": "/react-cruds/static/js/2.be8bbd0d.chunk.js.map",
+    "index.html": "/react-cruds/index.html",
+    "static/css/main.349ef09a.chunk.css.map": "/react-cruds/static/css/main.349ef09a.chunk.css.map",
+    "static/js/2.be8bbd0d.chunk.js.LICENSE.txt": "/react-cruds/static/js/2.be8bbd0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b19978f.js",
+    "static/js/runtime-main.04ccc800.js",
     "static/js/2.be8bbd0d.chunk.js",
     "static/css/main.349ef09a.chunk.css",
     "static/js/main.06ac3242.chunk.js"
